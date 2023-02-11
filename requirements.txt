@@ -4,11 +4,6 @@ instaloader
 
 uuid
 
-random
-
-webbrowser
-
-socket
 
 requests
 
