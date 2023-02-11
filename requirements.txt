@@ -9,8 +9,5 @@ requests
 
 telethon
 
-os
-
-time
 
 pyfiglet
